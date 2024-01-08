@@ -1,0 +1,12 @@
+git init
+
+git add .
+
+git commit -m "backend for restaurant app"
+
+create a repo and copy the 6th line and paste it into the terminal
+
+git remote add origin https://github.com/artlessaju/Restaurant-backend.git
+
+
+git push origin master
